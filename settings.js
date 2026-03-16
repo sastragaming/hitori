@@ -9,9 +9,9 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["6282113821188"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
+global.owner = ["6285338595633,6283872979470"] // ['628','628'] 2 owner atau lebih
+global.author = 'SastraAdhyct'
+global.botname = 'SasBotz'
 global.packname = 'Bot WhatsApp'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone Makasar
 global.locale = 'en' // Ganti pakai command .setlocale
@@ -32,10 +32,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/EApQZ65s9wF1UG5nD6Pinm?mode=gi_t',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://youtube.com/c/sastragaming05',
+	gh: 'https://github.com/sastragaming',
+	gc: 'https://chat.whatsapp.com/ISECnI6acy6AROKCQB1sbp?mode=gi_t',
+	ig: 'https://www.instagram.com/sastra_adhyct_s?igsh=ejQ3dDVmdW1rM3F6',
 }
 
 global.limit = {
